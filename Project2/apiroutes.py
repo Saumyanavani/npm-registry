@@ -1,17 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Thu Dec  2 02:12:38 2021
-
-@author: garvi
-"""
-
-
-'''
-
-This file is a bridge between the auto-generated server stubs and the existing front-end 
-.. impl.
-
-'''
 
 # Files
 from Project2 import app
